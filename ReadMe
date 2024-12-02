@@ -1,0 +1,8 @@
+### Temporary Solution
+
+The `testGetRequest` method in `ApiTest` is a temporary solution. It currently:
+- Only verifies the status code of the response.
+
+**Future Improvements**:
+- Validate the response body.
+- Add tests for additional scenarios like error responses.
